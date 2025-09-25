@@ -30,7 +30,7 @@ The script is configured to use a test image hosted online by default. You can m
 After running the script, a new window will pop up displaying the input image with bounding boxes drawn around the detected traffic objects. The objects will be labeled with their class (e.g., Car, Bus) and a confidence score. An example of the output is shown below.
 
 <div align="center">
-
+  <img width="406" height="569" alt="Screenshot 2025-09-25 at 8 18 22 PM" src="https://github.com/user-attachments/assets/34a9ec8b-7af5-4058-b17d-636b94e482d0" />
 </div>
 
 ## License
